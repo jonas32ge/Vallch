@@ -1,0 +1,4 @@
+1 - Para adicionar a key, abra o executavel e clique no botao ADD no canto superior direito, cole a key e pronto!
+2 - O arquivo se chama chrome justamente para o vanguard nao detectar o cheat pelo nome do arquivo!
+3 - Para injetar basta estar com o valorant aberto, abrir o executavel, abrir a aba de valorant cheats e clicar em injetar!
+4 - Para salvar uma config, no executavel va na aba misc, e clique em salvar cfg, depois quando voltar eh so clicar em importar cfg!
